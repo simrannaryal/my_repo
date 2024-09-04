@@ -1,0 +1,2 @@
+/usr/bin/ar qc libev.a  CMakeFiles/ev.dir/EvCar.cpp.o
+/usr/bin/ranlib libev.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libic.a  CMakeFiles/ic.dir/ICECar.cpp.o
+/usr/bin/ranlib libic.a

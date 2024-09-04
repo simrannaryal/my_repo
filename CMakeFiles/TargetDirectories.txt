@@ -1,0 +1,6 @@
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques4/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques4/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques4/CMakeFiles/main.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques4/CMakeFiles/func.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques4/CMakeFiles/ic.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques4/CMakeFiles/ev.dir
